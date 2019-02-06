@@ -5,7 +5,7 @@ install_requires = [
     'requests',
     'xlwt',
     'flask',
-    'opencv-python',
+    'numpy',
 ]
 
 setup(name='Distutils',
